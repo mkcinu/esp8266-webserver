@@ -1,3 +1,7 @@
+-- (c) Marcin Krupowicz
+--
+-- esp8266 web server for NodeMCU
+
 local PAGE = 1;
 local FUNCTION = 2;
 
